@@ -1,0 +1,14 @@
+{
+  "name": "第二種電気工事士 一問一答",
+  "short_name": "電工二種",
+  "description": "第二種電気工事士 学科試験 対策 一問一答アプリ",
+  "start_url": "/denki2-app/index.html",
+  "display": "standalone",
+  "background_color": "#14140a",
+  "theme_color": "#14140a",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
